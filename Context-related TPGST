@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-12T12:15:48.101Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="CzbJjuxd7kqNGoEGSa7E" version="12.8.4" type="github">
+<mxfile host="www.draw.io" modified="2020-03-15T08:10:29.075Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="DOwkSdT39KwRqJ5H9hDz" version="12.8.4" type="github">
   <diagram id="7EGLhAi7l1LUe8pceZA-" name="Page-1">
     <mxGraphModel dx="1605" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="lrKatXH8cXCUFnD-4u2H-17" value="3 Conv Layers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="430" y="914" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lrKatXH8cXCUFnD-4u2H-31" value="Bi-LSTM（fusion context info）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="lrKatXH8cXCUFnD-4u2H-31" value="Bi-GRU（fusion context info）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="190" y="828" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lrKatXH8cXCUFnD-4u2H-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
@@ -193,7 +193,7 @@
         <mxCell id="NdylVeXXUAcIHU2Berh0-23" value="3 Conv Layers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="390.5" y="380" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NdylVeXXUAcIHU2Berh0-24" value="Bi-LSTM（source sentence info）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="NdylVeXXUAcIHU2Berh0-24" value="Bi-GRU（source sentence info）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="190" y="310" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NdylVeXXUAcIHU2Berh0-82" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=2;endSize=4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="NdylVeXXUAcIHU2Berh0-101" target="NdylVeXXUAcIHU2Berh0-78" edge="1">
