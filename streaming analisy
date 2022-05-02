@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T09:48:36.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="TXXB4VEISnZUIOnOHVlI" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T09:49:40.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="QONU_nWAUSUMQ6ZIyf9m" version="17.4.4" type="github">
   <diagram id="iE1TF-mtPNMyKn35Aflf" name="Page-1">
     <mxGraphModel dx="2362" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="4nOvwj0-F7eelTPI0Ypb-8" value="content" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="191" y="730" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nOvwj0-F7eelTPI0Ypb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="4nOvwj0-F7eelTPI0Ypb-9" target="4nOvwj0-F7eelTPI0Ypb-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4nOvwj0-F7eelTPI0Ypb-9" value="timbre A" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="261" y="730" width="45" height="60" as="geometry" />
@@ -170,6 +173,9 @@
         </mxCell>
         <mxCell id="4nOvwj0-F7eelTPI0Ypb-56" value="spk A id" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="850" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4nOvwj0-F7eelTPI0Ypb-60" value="音色泄漏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="850" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
